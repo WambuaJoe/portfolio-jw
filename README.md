@@ -17,14 +17,16 @@ It is built with:
 - **GitHub Pages** for deployment.
 
 
+
 ## 📁 Folder Structure
 
-portfolio/
-├── assets/           # Styles, images, and static files
-│   ├── style.css    # Main CSS stylesheet
-│   └── images/      # All project images
-├── index.html       # Main homepage/landing page
-└── README.md        # Project documentation (this file)
+- `portfolio/`
+  - `assets/` → Styles, images, and static files
+    - `style.css` → Main CSS stylesheet
+    - `images/` → All project images
+  - `index.html` → Main homepage/landing page
+  - `README.md` → Project documentation (this file)
+
 
 
 ## 🎨 Customization
